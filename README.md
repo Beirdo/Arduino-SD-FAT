@@ -3,9 +3,6 @@ file systems on SD/SDHC flash cards.
 
 SdFat requires Arduino 1.6x or greater.
 
-To use SdFat, clone the repository or unzip the ZIP file and place the SdFat
-folder into the libraries sub-folder in your main sketch folder.
-
 For more information see the Manual installation section of this guide:
 
 http://arduino.cc/en/Guide/Libraries 
